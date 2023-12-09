@@ -155,6 +155,7 @@ public class TrybankLib
         }
         catch (InvalidOperationException)
         {
+
             throw;
         }
     }
@@ -167,3 +168,4 @@ public class TrybankLib
 
 
 }
+// último commit para subir projeto para git pessoal e atualizar branch
