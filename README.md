@@ -7,6 +7,8 @@ Boas-vindas ao meu primeiro projeto em C# na eletiva da Trybe.
 Nesse projeto foi criado uma aplicação para controlar contas bancárias bem como realizar as suas operações básicas de checar um saldo, depositar, sacar e transferir dinheiro. Além disso permiti cadastrar novas contas, faça login e logout no sistema.
 
 ## Funcionalidades Implementadas
+<details>
+  <summary><strong>Projeto Trybank</strong></summary><br />
 
 #### Cadastro de Novas Contas
 O sistema permite o registro de novas contas, verificando a existência prévia da combinação de número e agência para evitar duplicatas.
