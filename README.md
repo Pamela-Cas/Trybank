@@ -36,10 +36,13 @@ Durante a realização deste projeto, algumas habilidades foram exercitadas:
 </details>
 
 ## Orientações
-  <summary><strong>Clonando o projeto</strong></summary><br />
-  1. Clone o repositório:
+
+### Instalação e Execução
+Se deseja experimentar o projeto em sua máquina local, siga estas etapas:
+
+1. Clone o repositório:
 ```sh
-git clone git@github.com:Pamela-Cas/Trybank.git
+git clone git@github.com:marquesdjuliana/trybank.git
 ```
 2. Entre na pasta do repositório:
 ```sh
