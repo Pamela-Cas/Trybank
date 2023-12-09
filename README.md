@@ -8,7 +8,6 @@ Nesse projeto foi criado uma aplicação para controlar contas bancárias bem co
 
 ## Funcionalidades Implementadas
 
-<details>
 #### Cadastro de Novas Contas
 O sistema permite o registro de novas contas, verificando a existência prévia da combinação de número e agência para evitar duplicatas.
 
@@ -26,12 +25,9 @@ Permite a retirada de valores da conta do usuário logado.
 
 #### Transferência entre Contas
 Capacidade de transferir dinheiro entre contas, validando o saldo e a existência das contas envolvidas.
- 
-</details> 
 
 ## Habilidades Aplicadas
 
-<details>
 Durante a realização deste projeto, algumas habilidades foram exercitadas:
 
 - Manipulação de arrays multidimensionais para armazenamento temporário de dados.
@@ -39,11 +35,7 @@ Durante a realização deste projeto, algumas habilidades foram exercitadas:
 - Separação de responsabilidades e construção de funcionalidades em ordem para facilitar a evolução do sistema.
 </details>
 
-<details>
 ## Orientações
-
-
-<details> 
   <summary><strong>Clonando o projeto</strong></summary><br />
   1. Clone o repositório:
 ```sh
@@ -62,8 +54,6 @@ Execute o comando:
 ```sh
 dotnet restore 
 ```
-</details>
-
 # Requisitos do Projeto
 
 Boas-vindas ao TryBank, uma iniciativa de implementar um serviço de banco financeiro para sua instituição do coração.💚
