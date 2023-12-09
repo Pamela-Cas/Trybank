@@ -35,7 +35,7 @@ Durante a realização deste projeto, algumas habilidades foram exercitadas:
 - Manipulação de arrays multidimensionais para armazenamento temporário de dados.
 - Implementação de funções com validações e tratamento de exceções para garantir a integridade das operações financeiras.
 - Separação de responsabilidades e construção de funcionalidades em ordem para facilitar a evolução do sistema.
-
+<details>
 ## Orientação para experimentar o projeto em sua máquina local
 <details>
   <summary><strong>Instalação e Execução</strong></summary><br />
