@@ -40,7 +40,7 @@ Durante a realização deste projeto, algumas habilidades foram exercitadas:
 
 1. Clone o repositório:
 ```sh
-git clone 
+git clone git@github.com:Pamela-Cas/Trybank.git
 ```
 2. Entre na pasta do repositório:
 ```sh
