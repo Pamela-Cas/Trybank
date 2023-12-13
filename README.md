@@ -1,6 +1,6 @@
 # Trybank
 
-Boas-vindas ao meu primeiro projeto em C#  `Trybank`
+Boas-vindas ao meu primeiro projeto em C#  `Trybank` realizado para avaliação na eletiva de C# durante o curso de Desenvolvimento Web na Trybe. 
 
 ## Sobre o Projeto
 
